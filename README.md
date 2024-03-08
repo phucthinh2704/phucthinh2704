@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trần Nguyễn Phúc Thịnh</h1>
 <h3 align="center">I'm a software engineer from Can Tho, Vietnam, exploring diverse realms of technology, driven by a thirst for practical projects.</h3>
 
-- 🌱 I’m currently learning **.NET, NodeJS, Spring boot**
+- 🌱 I’m currently learning **.NET, NodeJS, ReactJS, Spring boot**
 
 - 📫 How to reach me **thinhphuc2704@gmail.com**
 
