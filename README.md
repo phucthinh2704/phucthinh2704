@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Trần Nguyễn Phúc Thịnh</h1>
+<h3 align="center">I'm a software engineer from Can Tho, Vietnam, exploring diverse realms of technology, driven by a thirst for practical projects.</h3>
+
+- 🌱 I’m currently learning **.NET, NodeJS, Spring boot**
+
+- 📫 How to reach me **thinhphuc2704@gmail.com**
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/phuc.thinh.2704) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phucthinh_2704/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@jimmybaybi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCWSya9Rtn-Ap93fIW9795AA) 
