@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **.NET, NodeJS, ReactJS, Spring boot**
 
-- 📫 How to reach me **thinhphuc2704@gmail.com**
+- 📫 How to reach me **<a href="mailto: thinhphuc2704@gmail.com">thinhphuc2704@gmail.com</a>** 
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/phuc.thinh.2704) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phucthinh_2704/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@jimmybaybi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCWSya9Rtn-Ap93fIW9795AA) [![Discord](https://img.shields.io/badge/Discord-%23FF0000.svg?logo=Discord&logoColor=white)](https://discord.com/channels/@me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FF0000.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/phuc-thinh-089b6929a/) 
