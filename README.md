@@ -4,8 +4,10 @@
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Backend+Developer;Tech+Blogger;NLP+Engineer;Full-stack+Developer) -->
 
 - 🌱 I’m currently learning
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  [![My Skills](https://skillicons.dev/icons?i=python,typescript)](https://skillicons.dev)
  <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code> -->
+ <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
+ <!-- <img align="bottom" alt="GIF" src="https://media.giphy.com/media/CTX0ivSQbI78A/source.gif" /> -->
 
 - 📫 How to reach me **<a href="mailto: thinhphuc2704@gmail.com">thinhphuc2704@gmail.com</a>** 
 
@@ -18,8 +20,7 @@
 
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Winform](https://img.shields.io/badge/winform-3670A0?style=for-the-badge&logo=winform&logoColor=ffdd54) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -49,9 +50,6 @@
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=phucthinh2704&icon=0&color=4)](https://visitcount.itsvg.in)
